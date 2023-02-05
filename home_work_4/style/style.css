@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.social_media {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: end;
+}
+.social_media a {
+  margin-left: 25px;
+  color: #4fbfa5;
+}
+.main {
+  background-color: #4fbfa5;
+  padding: 20px 150px;
+}
+.topic {
+  width: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.topic a {
+  color: white;
+  text-decoration: none;
+  font-style: italic;
+}
+#button {
+  background-color: white;
+  color: black;
+  padding: 5px 25px;
+  font-weight: 700;
+}
+.top {
+  padding: 0px 150px;
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0px;
+  align-items: flex-end;
+  align-items: stretch;
+}
+.about {
+  display: flex;
+  flex-direction: row;
+}
+.light {
+  color: white;
+  font-style: italic;
+}
+h1 {
+  margin: 150px 0px 35px 0px;
+}
+p {
+  margin: 30px 80px 0px 0px;
+}
+#details {
+  background-color: #00868a;
+  padding: 5px 25px;
+  font-style: normal;
+  width: 125px;
+}
+.bottle img {
+  width: 586px;
+  height: auto;
+  margin: 40px 0px;
+}
+h2 {
+  color: #00868a;
+  font-style: italic;
+  text-align: center;
+  margin-top: 90px;
+  font-size: xx-large;
+}
+.offer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 40px 300px;
+}
+.about2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 0px 300px;
+  padding: 0px 60px;
+}
+.about2 div {
+  background-color: #00868a;
+  color: white;
+  font-style: italic;
+  width: 275px;
+  height: 120px;
+}
+.social_media2 {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: end;
+  padding: 150px 150px 50px;
+}
+.social_media2 a {
+  margin-left: 25px;
+  color: #4fbfa5;
+}
